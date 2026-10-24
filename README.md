@@ -10,7 +10,7 @@ In questa guida Ibo mostra la procedura da seguire quando **7-Zip non compare su
 
 ![Guida animata di Ibo: scegliere 7-Zip in Apri con ed estrarre il pacchetto](https://raw.githubusercontent.com/ibosortino-cmd/bt5-gioco-completo/main/media/guida-7zip.gif)
 
-[Guarda o scarica il video originale a piena risoluzione](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/installare%20bt5.mp4)
+[Guarda o scarica il video originale a piena risoluzione](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/installare.bt5.mp4)
 
 ### Come scaricare e installare
 
