@@ -62,9 +62,9 @@ Per ogni fonte: chi l'ha creata, dove si trova, la licenza o le condizioni d'uso
 
 Ideazione e direzione del progetto, logo di Budokai Tenkaichi 5, video di intro e del titolo, copertina e banner. Cambiato le immagini dei personaggi, menu e icone, scelto e adattato le mod, e progettato l'interfaccia e le modalità del gioco.
 
-### Online, ricreato da Ibo
+### Online, ricreato da zero
 
-Ibo ha ricreato da zero l'online del gioco, in una versione nuova, stabile e migliorata. Ha ridisegnato completamente l'interfaccia, con tre sezioni: Tag Team, Stanze a turni e Duello 1 contro 1. Ha creato una modalità a stanze a turni molto simile a quella di Sparking ZERO.
+Ho ricreato da zero l'online del gioco, in una versione nuova, stabile e migliorata. Ho ridisegnato completamente l'interfaccia, con tre sezioni: Tag Team, Stanze a turni e Duello 1 contro 1. Ho creato una modalità a stanze a turni molto simile a quella di Sparking ZERO.
 In più: gli avvisi quando un amico è online, il ritardo dei comandi che si regola da solo e una schermata dopo la partita per chiedere la rivincita o cambiare personaggio.
 
 
