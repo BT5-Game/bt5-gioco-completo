@@ -4,6 +4,14 @@
 
 Questa pagina contiene il **pacchetto completo di installazione**, distinto dagli aggiornamenti.
 
+### Guida animata: se 7-Zip non compare in “Apri con”
+
+In questa guida Ibo mostra la procedura da seguire quando **7-Zip non compare subito tra le applicazioni di “Apri con”**: scegli un’altra applicazione, entra nella cartella di installazione di 7-Zip e seleziona **7zFM.exe**. Poi apri la prima parte ed **estrai tutta la cartella prima di avviare l’installatore**.
+
+![Guida animata di Ibo: scegliere 7-Zip in Apri con ed estrarre il pacchetto](https://raw.githubusercontent.com/ibosortino-cmd/bt5-gioco-completo/main/media/guida-7zip.gif)
+
+[Guarda o scarica il video originale a piena risoluzione](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/download/completo-2026.10.24/installare%20bt5.mp4)
+
 ### Come scaricare e installare
 
 1. Apri **SCARICA IL GIOCO COMPLETO**.
