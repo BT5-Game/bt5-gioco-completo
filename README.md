@@ -1,6 +1,6 @@
 ![Dragon Ball Budokai Tenkaichi 5](https://raw.githubusercontent.com/BT5-Game/bt5-gioco-completo/main/media/banner-bt5.png)
 
-## ⬇️ Scarica subito il gioco completo
+## ⬇️Gioco completo
 
 **Scarica tutte e cinque le parti nella stessa cartella:**
 
