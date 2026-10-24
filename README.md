@@ -47,7 +47,7 @@ Questo repository è dedicato al gioco completo. Gli aggiornamenti restano gesti
 ---
 
 ## Budokai Tenkaichi 5 — Crediti e fonti
-24 ott 2026 · @Ibo
+24 ott 2026 · Ibo
 Budokai Tenkaichi 5 è un progetto amatoriale di Ibo, gratuito e non ufficiale, basato su Dragon Ball Z: Budokai Tenkaichi 3 e sul lavoro degli autori elencati qui sotto. Il port per PC e la mod Tag Team li hanno creati altri autori; Ibo li ha migliorati e adattati. Un grazie a tutte le persone e ai progetti qui sotto.
 
 ### Basato sul lavoro di
