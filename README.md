@@ -1,3 +1,5 @@
+![Dragon Ball Budokai Tenkaichi 5](https://raw.githubusercontent.com/ibosortino-cmd/bt5-gioco-completo/main/media/banner-bt5.png)
+
 # Budokai Tenkaichi 5 — Gioco completo
 
 ## ⬇️ [SCARICA IL GIOCO COMPLETO](https://github.com/ibosortino-cmd/bt5-gioco-completo/releases/latest)
